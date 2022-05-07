@@ -1,2 +1,2 @@
-# np-green-gangmap
- Gang Map for NoPixel Green
+NoPixel Purple Territory map
+====
